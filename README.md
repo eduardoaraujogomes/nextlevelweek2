@@ -61,7 +61,7 @@ _________
 ## 🚀 Como executar o projeto
 
     # Clone esse repositório
-    $ git clone https://github.com/philipeperete/NextLevelWeek2
+    $ git clone https://github.com/eduardoaraujogomes/nextlevelweek2.git
     
     # Instalar dependências
     $ npm install  
@@ -89,11 +89,10 @@ _________
 
 Agradecimentos [Rocketseat] 🚀.
 
-* Twitter: [Philipe Perete](https://twitter.com/PhilipePerete).
-* Linkedin: [Philipe Perete](https://www.linkedin.com/in/philipe-perete-b76622104/).
-* Github: [Philipe Perete](https://github.com/philipeperete).
+* Linkedin: [Eduardo de Araújo](https://www.linkedin.com/in/eduardo-de-ara%C3%BAjo-gomes-filho-822428b8/).
+* Github: [Eduardo de Araújo](https://github.com/eduardoaraujogomes).
 
-Feito com 💙 por **Philipe Perete** 👻.
+Feito com 💙 por **Eduardo de Araújo** 👻.
 
 [Rocketseat]: https://rocketseat.com.br
 [Figma]: https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id= 
