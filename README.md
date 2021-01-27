@@ -1,6 +1,5 @@
-<h1 align="center">
-   [banner](https://user-images.githubusercontent.com/73198111/106046944-b2d21880-60c1-11eb-8265-b8c5740063e7.png)
-</h1>
+![banner](https://user-images.githubusercontent.com/73198111/106046944-b2d21880-60c1-11eb-8265-b8c5740063e7.png)
+
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/philipeperete/NextLevelWeek2?color=%2304D361">
