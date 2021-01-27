@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Next Level Week 2" title="#NextLevelWeek2" src="public/images/banner.png" />
+   ![banner](https://user-images.githubusercontent.com/73198111/106046944-b2d21880-60c1-11eb-8265-b8c5740063e7.png)
 </h1>
 
 <p align="center">
